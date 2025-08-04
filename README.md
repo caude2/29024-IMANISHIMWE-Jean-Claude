@@ -94,8 +94,8 @@ Over **50 SQL queries** included in `exercise_queries.sql` to test all edge case
 
 
 
-**📌 Author:** Confiance UFITAMAHORO  
-**📚 Course:** Database Development with PL/SQL  
+**📌 Author:** Imanishimwe jean Claude 
+**📚 Course:** Database Management System
 
 
 
