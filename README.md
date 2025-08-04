@@ -71,12 +71,6 @@ Over **50 SQL queries** included in `exercise_queries.sql` to test all edge case
 - A GUI tool like **pgAdmin**, **DBeaver**, or **DataGrip** (optional but useful)
 - Basic knowledge of SQL
 
-### 🛠️ Setup Steps
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/employee-sql-lab.git
-   cd employee-sql-lab
 
 
 **📌 Author:** Confiance UFITAMAHORO  
