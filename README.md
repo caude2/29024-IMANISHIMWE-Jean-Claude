@@ -1,4 +1,4 @@
-# Assignment - POSTGRESQL Query Execution
+# Assignment - PostgreSQL Query Execution
 
 ## Student Information
 - **Student ID:** 29024
